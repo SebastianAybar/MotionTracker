@@ -1,7 +1,7 @@
-#include <stdio.h>  // Für Dateioperationen (fopen, fread, fclose, printf)
-#include <stdlib.h> // Für Speicherverwaltung (malloc, free) und Umwandlungen (atoi)
-#include <string.h> // Für String-Operationen (strtok, memset, strcpy)
-#include <stdint.h> // Für feste Datentypen (uint8_t, int16_t)
+#include <stdio.h> 
+#include <stdlib.h> 
+#include <string.h> 
+#include <stdint.h> 
 #include <math.h>
 #include "skript.h"
 
@@ -442,7 +442,7 @@ void Detect_Fall(int16_t accelerationValueX, int16_t accelerationValueY, int16_t
     if (fallLikeAccelerations == True)
     {
         fallDetectCounter++;
-        // Don´t use the first 52 values for calculation of meanAccYDetect. 564 - 52 = (1<<9)
+        
         if (fallDetectCounter > 52 && fallDetectCounter < 564)
         {
             sumAccY4Detect += accelerationValueY;
@@ -473,7 +473,7 @@ void Detect_Fall(int16_t accelerationValueX, int16_t accelerationValueY, int16_t
             if (meanAccY < 300 && meanAccY > -300)
             {
                 fallConfirmed = True;
-                printf("Sturz bestätigt."); // Replace by a method to send a message
+                printf("Sturz bestätigt.");
                 fallDetected = False;
                 remainedUprightAfterFall = False;
             }

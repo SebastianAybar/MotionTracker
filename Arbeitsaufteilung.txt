@@ -4,6 +4,6 @@ Ausarbeitung:
 - Seite 23 bis 29 wurden von Okan Süner und Ferid Gökkaya erstellt
 
 Skripte:
-- Der Ordner namens "Informatik-Projekt" beinhaltet die Skripte die von Okan Süner und Ferid Gökkaya erstellt wurden
-- Der Ordner namens Sebastian_Muhammed_Skripte beinhaltet die Skripte die von Sebastian Aybar und Muhammed Önal
+- Der Ordner "Informatik-Projekt" beinhaltet die Skripte die von Okan Süner und Ferid Gökkaya erstellt wurden
+- Der Ordner Sebastian_Muhammed_Skripte beinhaltet die Skripte die von Sebastian Aybar und Muhammed Önal
 
