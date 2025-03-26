@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "bmi323_eigen.h": "c",
+        "custom_stm.h": "c"
+    }
+}

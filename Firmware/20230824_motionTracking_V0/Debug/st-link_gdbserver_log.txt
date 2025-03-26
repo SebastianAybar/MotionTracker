@@ -1,0 +1,72 @@
+[0.000] initConfigParams():  Configuration flags start
+[0.000] initConfigParams():   external-init                  false
+[0.000] initConfigParams():   pend-halt-timeout              (null)
+[0.000] initConfigParams():   halt                           false
+[0.000] initConfigParams():   config-file                    ""
+[0.000] initConfigParams():   persistent                     false
+[0.000] initConfigParams():  +log-file                       "C:\Users\sebas\OneDrive\Dokumente\GitHub\InformatikProjekt\Rene Weil\20240311_motionTracking_LH_final\20230824_motionTracking_V0\Debug\st-link_gdbserver_log.txt"
+[0.000] initConfigParams():  +log-level                      31
+[0.000] initConfigParams():  +port-number                    61234
+[0.000] initConfigParams():  +verbose                        true
+[0.000] initConfigParams():   refresh-delay                  15
+[0.000] initConfigParams():  +verify                         true
+[0.000] initConfigParams():  +swd                            true
+[0.000] initConfigParams():   swo-port                       61234
+[0.000] initConfigParams():   cpu-clock                      8000000
+[0.000] initConfigParams():   swo-clock-div                  128
+[0.000] initConfigParams():  +initialize-reset               true
+[0.000] initConfigParams():   debuggers                      false
+[0.000] initConfigParams():   serial-number                  ""
+[0.000] initConfigParams():  +apid                           0
+[0.000] initConfigParams():   attach                         false
+[0.000] initConfigParams():   shared                         false
+[0.000] initConfigParams():   erase-all                      false
+[0.000] initConfigParams():   memory-map                     ""
+[0.000] initConfigParams():   ext-memory-loaders             false
+[0.000] initConfigParams():   extload_init                   (null)
+[0.000] initConfigParams():   extload                        (null)
+[0.000] initConfigParams():  +stm32cubeprogrammer-path       "C:\ST\STM32CubeIDE_1.18.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.win32_2.2.100.202412061334\tools\bin"
+[0.000] initConfigParams():   temp-path                      ""
+[0.000] initConfigParams():   preserve-temps                 false
+[0.000] initConfigParams():   frequency                      0
+[0.000] initConfigParams():   licenses                       false
+[0.000] initConfigParams():   ignore-rest                    false
+[0.000] initConfigParams():   version                        false
+[0.000] initConfigParams():   help                           false
+[0.000] initConfigParams():  Configuration flags end
+[0.001] init():  STMicroelectronics ST-LINK GDB server. Version 7.10.0
+Copyright (c) 2025, STMicroelectronics. All rights reserved.
+[0.010] openDevice():  COM frequency = 4000 kHz
+[0.010] openDevice():  Target connection mode: Under reset
+[0.012] openDevice():  Target connection failed
+[0.012] openDevice():  COM frequency = 1800 kHz
+[0.012] openDevice():  Target connection mode: Under reset
+[0.014] openDevice():  Target connection failed
+[0.014] openDevice():  COM frequency = 950 kHz
+[0.014] openDevice():  Target connection mode: Under reset
+[0.017] openDevice():  Target connection failed
+[0.017] openDevice():  COM frequency = 480 kHz
+[0.017] openDevice():  Target connection mode: Under reset
+[0.021] openDevice():  Target connection failed
+[0.021] openDevice():  COM frequency = 240 kHz
+[0.021] openDevice():  Target connection mode: Under reset
+[0.028] openDevice():  Target connection failed
+[0.028] openDevice():  COM frequency = 125 kHz
+[0.028] openDevice():  Target connection mode: Under reset
+[0.041] openDevice():  Target connection failed
+[0.041] openDevice():  COM frequency = 100 kHz
+[0.041] openDevice():  Target connection mode: Under reset
+[0.058] openDevice():  Target connection failed
+[0.058] openDevice():  COM frequency = 50 kHz
+[0.058] openDevice():  Target connection mode: Under reset
+[0.088] openDevice():  Target connection failed
+[0.088] openDevice():  COM frequency = 25 kHz
+[0.088] openDevice():  Target connection mode: Under reset
+[0.148] openDevice():  Target connection failed
+[0.148] openDevice():  COM frequency = 5 kHz
+[0.148] openDevice():  Target connection mode: Under reset
+[0.440] openDevice():  Target connection failed
+[0.440] openDevice():  Target no device found
+[0.440] initServerContext():  
+Error in initializing ST-LINK device.
+Reason: [0.440] initServerContext():  No device found on target.

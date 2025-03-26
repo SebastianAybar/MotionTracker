@@ -1,0 +1,13 @@
+../STM32_WPAN/App/BMI323_eigen.c:15:6:Sensor_Init	8	static
+../STM32_WPAN/App/BMI323_eigen.c:42:6:First_Read_Sensor_Id	32	static
+../STM32_WPAN/App/BMI323_eigen.c:60:6:Configure_Accelerometer	40	static
+../STM32_WPAN/App/BMI323_eigen.c:112:6:Configure_Gyroscope	40	static
+../STM32_WPAN/App/BMI323_eigen.c:164:6:Read_Sensor_Data	48	static
+../STM32_WPAN/App/BMI323_eigen.c:234:10:Read_Step_Counter	40	static
+../STM32_WPAN/App/BMI323_eigen.c:275:6:Clear_Step_Counter_Reg	48	static
+../STM32_WPAN/App/BMI323_eigen.c:369:6:Configure_Interrupt_Fifo_Watermark	32	static
+../STM32_WPAN/App/BMI323_eigen.c:427:6:Configure_Fifo	32	static
+../STM32_WPAN/App/BMI323_eigen.c:446:6:Check_Error_Reg	32	static
+../STM32_WPAN/App/BMI323_eigen.c:482:6:Enable_Step_Counter	40	static
+../STM32_WPAN/App/BMI323_eigen.c:533:6:Enable_Feature_Engine	40	static
+../STM32_WPAN/App/BMI323_eigen.c:607:6:Check_Status_Reg	32	static

@@ -1,0 +1,16 @@
+../Drivers/CMSIS/Include/core_cm4.h:2059:26:ITM_SendChar	16	static,ignoring_inline_asm
+../Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h:1679:22:LL_RCC_LSE_SetDriveCapability	16	static
+../Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h:539:22:LL_AHB2_GRP1_EnableClock	24	static
+../Core/Src/main.c:73:5:_write	32	static
+../Core/Src/main.c:89:5:main	8	static
+../Core/Src/main.c:160:6:SystemClock_Config	112	static
+../Core/Src/main.c:212:6:PeriphCommonClock_Config	88	static
+../Core/Src/main.c:237:13:MX_ADC1_Init	32	static
+../Core/Src/main.c:295:13:MX_I2C3_Init	8	static
+../Core/Src/main.c:343:13:MX_IPCC_Init	8	static
+../Core/Src/main.c:369:13:MX_IWDG_Init	8	static
+../Core/Src/main.c:398:13:MX_RF_Init	4	static
+../Core/Src/main.c:419:13:MX_RTC_Init	32	static
+../Core/Src/main.c:484:13:MX_GPIO_Init	32	static
+../Core/Src/main.c:558:6:SystemClock_STARTUP_Config	112	static
+../Core/Src/main.c:613:6:Error_Handler	4	static,ignoring_inline_asm
